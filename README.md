@@ -9,7 +9,7 @@ Here's [My Discord Bot](https://discord.com/users/972866679220617297)
 Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
 <br>
 <br>
-![status](https://dev.discordprofiles.me/badge/status/935053416877666304?simple=true)
+![status](https://dev.discordprofiles.me/badge/status/935053416877666304?simple=false)
 ![playing](https://dev.discordprofiles.me/badge/playing/935053416877666304)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/935053416877666304)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/935053416877666304)](https://dev.discordprofiles.me/openspotify/935053416877666304)
