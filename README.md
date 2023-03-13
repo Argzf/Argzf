@@ -1,12 +1,20 @@
-<!-- # Hi there, I'm [♛gzf♛!](http://gzf-linktree.great-site.net) 👋  -->
+# <!-- # Hi there, I'm [♛gzf♛!](http://gzf-linktree.great-site.net) 👋  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+♛gzf♛)](http://gzf-linktree.great-site.net)
 
 Here's [My Linktree](http://gzf-linktree.great-site.net)
 <br>
+Here's [My Discord](https://discord.com/users/https://discord.com/users/935053416877666304)
+<br>
+![](https://dcbadge.vercel.app/api/shield/935053416877666304)
+<br>
 Here's [My Discord Bot](https://discord.com/users/972866679220617297)
 <br>
+![Typing SVG](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
+<br>
 Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
+<br>
+[![](https://dcbadge.vercel.app/api/server/Hj9ekSwqrA)](https://discord.gg/Hj9ekSwqrA)
 <br>
 <br>
 ![status](https://dev.discordprofiles.me/badge/status/935053416877666304?simple=false)
