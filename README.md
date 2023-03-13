@@ -27,6 +27,9 @@ My Github Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Argzf&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Argzf&theme=discord_old_blurple&utcOffset=3)
 
+<hr>
+
+### If you wish to contact me please shoot a mail at [contact@gzf.cool](mailto:contact@gzf.cool)
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
