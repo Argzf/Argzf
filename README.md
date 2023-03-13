@@ -1,6 +1,6 @@
-# <!-- # Hi there, I'm [♛gzf♛!](http://gzf-linktree.great-site.net) 👋  -->
+<!-- # Hi there, I'm [♛gzf♛!](http://gzf-linktree.great-site.net) 👋  -->
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+♛gzf♛)](http://gzf-linktree.great-site.net)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+♛gzf♛)](http://gzf-linktree.great-site.net)
 
 Here's [My Linktree](http://gzf-linktree.great-site.net)
 <br>
@@ -16,17 +16,17 @@ Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
 <br>
 [![](https://dcbadge.vercel.app/api/server/Hj9ekSwqrA)](https://discord.gg/Hj9ekSwqrA)
 <br>
+<hr>
 <br>
-### My Github Activity
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia&hide_border=true" width="700"/>
+My Github Activity
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Argzf&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Argzf&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Argzf&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Argzf&theme=discord_old_blurple&utcOffset=3)
+
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
