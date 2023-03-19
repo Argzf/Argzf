@@ -29,7 +29,7 @@ My Github Activity
 
 <hr>
 
-### If you wish to contact me please shoot a mail at [contact@gzf.cool](mailto:contact@gzf.cool)
+### If you wish to contact me shoot a mail at [contact@gzf.cool](mailto:contact@gzf.cool)
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
