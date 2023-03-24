@@ -10,7 +10,7 @@ Here's [My Discord](https://discord.com/users/https://discord.com/users/93505341
 <br>
 Here's [My Discord Bot](https://discord.com/users/972866679220617297)
 <br>
-![Typing SVG](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
+![My Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
 <br>
 Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
 <br>
