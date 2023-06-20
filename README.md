@@ -1,6 +1,6 @@
-<!-- # Hi there, I'm [gzf!](http://gzf-linktree.great-site.net) 👋  -->
+<!-- # Hi there, I'm [gzf!](https://portfolio.gzf.cool) 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+gzf)](http://gzf-linktree.great-site.net)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+gzf)](https://portfolio.gzf.cool)
 
 Here's [My Portfolio](https://portfolio.gzf.cool)
 <br>
