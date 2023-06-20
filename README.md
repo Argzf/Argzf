@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+gzf)](http://gzf-linktree.great-site.net)
 
-Here's [My Linktree](http://gzf-linktree.great-site.net)
+Here's [My Portfolio](https://portfolio.gzf.cool)
 <br>
 Here's [My Discord](https://discord.com/users/https://discord.com/users/935053416877666304)
 <br>
