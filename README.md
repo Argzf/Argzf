@@ -10,7 +10,7 @@ Here's [My Discord](https://discord.com/users/https://discord.com/users/93505341
 <br>
 Here's [My Discord Bot](https://discord.com/users/972866679220617297)
 <br>
-![My Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
+![My (discontinued) Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
 <br>
 Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
 <br>
@@ -35,12 +35,12 @@ This is a ✨ _special_ ✨ repository because its `README.md` (this file) appea
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on life
+- 🌱 I’m currently learning how to breathe
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with touching grass
+- 💬 Ask me about Nothing
+- 📫 How to reach me: Discord/email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I don't have one 😂
 -->
