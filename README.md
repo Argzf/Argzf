@@ -1,24 +1,12 @@
 <!-- # Hi there, I'm [gzf!](https://portfolio.gzf.cool) 👋  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+gzf)](https://portfolio.gzf.cool)
-
-Here's [My Portfolio](https://portfolio.gzf.cool)
 <br>
-Here's [My Discord](https://discord.com/users/https://discord.com/users/935053416877666304)
+[My Discord](https://discord.com/users/https://discord.com/users/935053416877666304)
 <br>
 ![](https://dcbadge.vercel.app/api/shield/935053416877666304)
 <br>
-Here's [My Discord Bot](https://discord.com/users/972866679220617297)
-<br>
-![My (discontinued) Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
-<br>
-Here's [My Discord Server](https://discord.gg/Hj9ekSwqrA)
-<br>
-[![](https://dcbadge.vercel.app/api/server/Hj9ekSwqrA)](https://discord.gg/Hj9ekSwqrA)
-<br>
 <hr>
-<br>
-My Github Activity
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=discord_old_blurple)
