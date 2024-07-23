@@ -1,6 +1,6 @@
-<!-- # Hi there, I'm [gzf!](https://portfolio.gzf.cool) 👋  -->
+<!-- # Hey there, I'm gzf 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+I%27m+gzf)](https://discord.com/users/935053416877666304)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=a+commit+a+day+keeps+your+girlfriend+away)](https://discord.com/users/935053416877666304)
 <br>
 [My Discord](https://discord.com/users/935053416877666304)
 <br>
