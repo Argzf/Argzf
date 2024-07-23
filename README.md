@@ -1,6 +1,6 @@
 <!-- # Hey there, I'm gzf 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Howdy)](https://discord.com/users/935053416877666304)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Howdy)]()
 <br>
 [My Discord](https://discord.com/users/935053416877666304)
 <br>
