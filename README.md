@@ -1,34 +1,59 @@
-<!-- # Hey there, I'm gzf 👋  -->
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Arsan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Howdy)]()
-<br>
-[My Discord](https://discord.com/users/935053416877666304)
-<br>
-![](https://dcbadge.vercel.app/api/shield/935053416877666304)
-<br>
-<hr>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-caffeinated%20☕-2bbc8a?style=for-the-badge" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Argzf&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Argzf&theme=discord_old_blurple&utcOffset=3)
+<p align="center">
+  <em>Write code. Build things. Break things. Stay curious.</em>
+</p>
 
-<hr>
+<p align="center">
+  🌍 Based in North America & the Middle East <em>(depends on the weather</em> 😆)<br>
+  📧 <a href="mailto:gzf.dev@gmail.com">gzf.dev@gmail.com</a> • 🔗 <a href="https://arsan.my">arsan.my</a>
+</p>
 
-### If you wish to contact me shoot a mail at [contact@gzf.cool](mailto:contact@gzf.cool)
-<!--
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 A few of my links
 
-- 🔭 I’m currently working on life
-- 🌱 I’m currently learning how to breathe
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with touching grass
-- 💬 Ask me about Nothing
-- 📫 How to reach me: Discord/email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't have one 😂
--->
+- **Email**: [gzf.dev@gmail.com](mailto:gzf.dev@gmail.com)
+- **Discord**: [@Gzf](https://discord.com/users/935053416877666304)
+- **Snapchat**: [@Arsan.G](https://snapchat.com/t/puNuewau)
+- **Steam**: [Argzf](https://steamcommunity.com/id/Argzf)
+- **Roblox**: [gzf_dev](https://roblox.com/users/2978265622)
+
+---
+
+## 🧑‍💻 About me
+
+> I'm a man of travel – but no matter where I am, I'm always with my Mac. I love coding at night and breaking stuff that I'll have to fix the following night. 😅
+
+- 📖 **One of my earliest coding hassles**: Back in 5th grade, I was the TA for our middle school coding CAP program. Spent 40+ minutes debugging someone's script… it was a capitalization issue. Good times.
+- 🧠 **Some of my interests**: Game development, law, OS, and OPSEC
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always open for a chitchat – just send me a message on Discord</i>
+</p>
