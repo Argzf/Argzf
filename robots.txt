@@ -6,7 +6,7 @@ Allow: /index.html
 Allow: /llms.txt
 Allow: /readme.txt
 Allow: /license.md
-Allow: //sitemap.xml
+Allow: /sitemap.xml
 Disallow: /
 
 Sitemap: https://arsan.my/sitemap.xml
