@@ -57,7 +57,7 @@ Source code of the portfolio website.
 - `index.html` – main homepage (content, styles, structure).
 - `links.html` – Linktree‑style page.
 - `vercel.json` – Vercel deployment configuration (rewrites, headers, redirects).
-- `README.md` – introduction, interests, and external links (displayed on my GitHub profile).
+- `README.txt` – introduction, interests, and external links (displayed on my GitHub profile).
 
 ---
 
