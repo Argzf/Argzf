@@ -4,8 +4,9 @@ Allow: /links
 Allow: /linktree
 Allow: /index.html
 Allow: /llms.txt
-Allow: /readme.md
+Allow: /readme.txt
 Allow: /license.md
+Allow: //sitemap.xml
 Disallow: /
 
 Sitemap: https://arsan.my/sitemap.xml
