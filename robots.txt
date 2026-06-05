@@ -10,4 +10,4 @@ Allow: /sitemap.xml
 Allow: /robots.txt
 Disallow: /
 
-Sitemap: https://arsan.my/sitemap.xml
+Sitemap: https://about-arsan.vercel.app/sitemap.xml
