@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌍 Based in North America & the Middle East <em>(depends on the weather</em> 😆)<br>
+  🌎 Based in North America & the Middle East <em>(depends on the weather</em> 😆)<br>
   📧 <a href="mailto:gzf.dev@gmail.com">gzf.dev@gmail.com</a> • 🔗 <a href="https://arsan.my">arsan.my</a>
 </p>
 
