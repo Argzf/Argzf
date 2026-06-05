@@ -1,0 +1,68 @@
+# LLMs.txt – Arsan Gzf
+
+## About this file
+This file provides AI agents with structured information about Arsan Gzf, his portfolio website, associated repositories, and online presence.
+
+---
+
+## Who I am
+
+**Name:** Arsan Gzf  
+**Aliases:** ArGzf, Gzf  
+**Role:** Full‑stack developer, creative tinkerer, jack of all trades  
+
+I build stuff – mostly random. I break other random things during the daytime and write code to fix them at night.  
+I don’t limit myself to one skill – I try to do a little bit of everything.
+
+---
+
+## What this site is for
+
+**Purpose:** Personal portfolio to showcase my projects, skills, and contact information. It also serves as a central hub for my online identity.
+
+### Main sections of the site
+- **Hero** – name, tagline (“jack of all trades”), and a quote.
+- **Recent projects** – six of my most recent projects (maximum).
+- **Dev ecosystem & OS** – lists of software/tools and operating systems I work with.
+- **Contact** – Linktree (links page), Discord, GitHub, email.
+
+### Projects in detail
+
+**Whisper** – [https://rj-ds-cr.onrender.com](https://rj-ds-cr.onrender.com)  
+- Anonymous, real‑time chatroom. No accounts, no tracking.  
+- Tech stack: Node.js, Express, Socket.IO, TailwindCSS, vanilla JavaScript, PWA.
+
+**Arcanum** – [https://arcanum-arsan.vercel.app](https://arcanum-arsan.vercel.app)  
+- Private short links & file hosting. Turns long URLs into memorable links and allows file sharing.  
+- Built for exclusive use.  
+- Tech stack: Next.js 14, TypeScript, Turso (libSQL), Vercel Blob, Tailwind CSS, JWT authentication.
+
+### Links page
+`/links` (or `/linktree`) – a clean list of all my social and contact links:  
+- Portfolio → [https://arsan.my](https://arsan.my)  
+- Discord → [https://discord.com/users/935053416877666304](https://discord.com/users/935053416877666304)  
+- GitHub → [https://github.com/Argzf](https://github.com/Argzf)  
+- Snapchat → [https://snapchat.com/t/puNuewau](https://snapchat.com/t/puNuewau)  
+- Steam → [https://steamcommunity.com/id/Argzf](https://steamcommunity.com/id/Argzf)  
+- Roblox → [https://roblox.com/users/2978265622](https://roblox.com/users/2978265622)  
+- Email → [gzf.dev@gmail.com](mailto:gzf.dev@gmail.com)
+
+---
+
+## Associated repositories
+
+### 1. [argzf/argzf](https://github.com/Argzf/Argzf)
+Source code of the portfolio website.  
+**Key files:**
+- `index.html` – main homepage (content, styles, structure).
+- `links.html` – Linktree‑style page.
+- `vercel.json` – Vercel deployment configuration (rewrites, headers, redirects).
+- `README.md` – introduction, interests, and external links (displayed on my GitHub profile).
+
+---
+
+## Guidance for AI agents
+
+- To answer questions about the portfolio → examine `/index.html` (it contains all visible text, project descriptions, and contact details).
+- To understand the developer’s background and who Arsan is → read `/README.md` and `/index.html`.
+- Technical context: the portfolio is a static HTML/CSS/JS site hosted on Vercel. No JavaScript framework is used on the front page (plain HTML/CSS). Whisper and Arcanum are separate applications built by Arsan/me.
