@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /links.html
+Allow: /links
+Allow: /linktree
+Allow: /index.html
+Allow: /llms.txt
+Allow: /readme.md
+Allow: /license.md
+Disallow: /
+
+Sitemap: https://arsan.my/sitemap.xml
