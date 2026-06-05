@@ -1,4 +1,3 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm Arsan</h1>
 
 <p align="center">
@@ -31,7 +30,7 @@
 > I'm a man of travel – but no matter where I am, I'm always with my Mac. I love coding at night and breaking stuff that I'll have to fix the following night. 😅
 
 - 📖 **One of my earliest coding hassles**: Back in 5th grade, I was the TA for our middle school coding CAP. Spent 40+ minutes debugging someone's script… it was a capitalization issue. Good times.
-- 🧠 **Some of my interests**: Game development, law, OS, and OPSEC
+- 🧠 **Some of my interests**: Game development, law, OS, OPSEC, and building stuff that runs smoothly on the web.
 
 ---
 
