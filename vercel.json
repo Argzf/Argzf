@@ -7,12 +7,12 @@
       "destination": "/links.html"
     },
     {
-      "source": "/linktree",
-      "destination": "/links.html"
+      "source": "/license",
+      "destination": "/license.md"
     },
     {
-      "source": "/:path*",
-      "destination": "/index.html"
+      "source": "/linktree",
+      "destination": "/links.html"
     }
   ],
 
