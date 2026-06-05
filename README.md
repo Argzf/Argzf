@@ -20,8 +20,8 @@
 - **Email**: [gzf.dev@gmail.com](mailto:gzf.dev@gmail.com)
 - **Discord**: [@Gzf](https://discord.com/users/935053416877666304)
 - **Snapchat**: [@Arsan.G](https://snapchat.com/t/puNuewau)
-- **Steam**: [Argzf](https://steamcommunity.com/id/Argzf)
-- **Roblox**: [gzf_dev](https://roblox.com/users/2978265622)
+- **Steam**: [@Argzf](https://steamcommunity.com/id/Argzf)
+- **Roblox**: [@gzf_dev](https://roblox.com/users/2978265622)
 
 ---
 
