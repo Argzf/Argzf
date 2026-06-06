@@ -8,6 +8,9 @@ Allow: /readme.txt
 Allow: /license.md
 Allow: /sitemap.xml
 Allow: /robots.txt
+Allow: /favicon.svg
+Allow: /favicon.ico
+Allow: /pfp.svg
 Disallow: /
 
 Sitemap: https://about-arsan.vercel.app/sitemap.xml
