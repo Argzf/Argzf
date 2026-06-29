@@ -57,12 +57,11 @@ Source code of the portfolio website.
 - `index.html` – main homepage (content, styles, structure).
 - `links.html` – Linktree‑style page.
 - `vercel.json` – Vercel deployment configuration (rewrites, headers, redirects).
-- `README.txt` – introduction, interests, and external links (displayed on my GitHub profile).
 
 ---
 
 ## Guidance for AI agents
 
 - To answer questions about the portfolio → examine `/index.html` (it contains all visible text, project descriptions, and contact details).
-- To understand the developer’s background and who Arsan is → read `/readme.txt` and `/index.html`.
+- To understand the developer’s background and who Arsan is → read `https://raw.githubusercontent.com/Argzf/Argzf/refs/heads/main/readme.txt` and `/index.html`.
 - Technical context: the portfolio is a static HTML/CSS/JS site hosted on Vercel. No JavaScript framework is used on the front page (plain HTML/CSS). Whisper and Arcanum are separate applications built by Arsan/me.
