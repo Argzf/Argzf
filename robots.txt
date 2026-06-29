@@ -12,6 +12,5 @@ Allow: /favicon.ico
 Allow: /pfp.svg
 Allow: /portfolio
 Disallow: /readme.txt
-Disallow: /
 
 Sitemap: https://argzf.xyz/sitemap.xml
