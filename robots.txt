@@ -4,7 +4,6 @@ Allow: /links
 Allow: /linktree
 Allow: /index.html
 Allow: /llms.txt
-Allow: /readme.txt
 Allow: /license.md
 Allow: /sitemap.xml
 Allow: /robots.txt
