@@ -12,7 +12,5 @@ Allow: /favicon.svg
 Allow: /favicon.ico
 Allow: /pfp.svg
 Disallow: /readme.txt
-Disallow: /license.md
-Disallow: /
 
-Sitemap: https://about-arsan.vercel.app/sitemap.xml
+Sitemap: https://argzf.xyz/sitemap.xml
